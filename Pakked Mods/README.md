@@ -9,3 +9,9 @@ Caveats and known issues:
 - [ ] Unable to highlight-outline glass objects (possible limitation of game itself)
 - [ ] Glass material, especially its transparent and refractive properties, may cause deleterious framelag at high vis counts
 
+# Hydronix Store Break-out
+This is a simple break-out of Hydronix Store code from the Hydronix Core
+All credit still due to Team Hydronix
+
+Caveats and known issues:
+- [ ] **URGENT** Castle walls and second floor are not being spawned in
