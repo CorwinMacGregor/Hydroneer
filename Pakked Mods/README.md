@@ -2,7 +2,7 @@
 # Glassworks
 
 Caveats and known issues:
-- [ ] **CRITICAL** Store items compiled with Hydronix store in mind, are not accessible to non-Hydronix users (fix in progress...)
+- [X] **CRITICAL** Store items compiled with Hydronix store in mind, are not accessible to non-Hydronix users (requires Hydronix-Store)
 - [ ] **URGENT** Store hook removes Simple Chair from store (fix in progress...)
 - [ ] _IMPENDING_ Simple Collision Hull incorrectly shaped (Affects certain physics interactions) (Fix imminent...)
 - [ ] Build gridguides not showing up (fix in progress...)
@@ -14,4 +14,4 @@ This is a simple break-out of Hydronix Store code from the Hydronix Core
 All credit still due to Team Hydronix
 
 Caveats and known issues:
-- [ ] **URGENT** Castle walls and second floor are not being spawned in
+- [x] **URGENT** Castle walls and second floor are not being spawned in
