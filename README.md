@@ -8,4 +8,6 @@
 #### Pakked mods
  - Pak files for the game go into - `%LocalAppData%\Mining\Saved\Paks`
  - Hit Win + R and copy paste - `%LocalAppData%\Mining\Saved` then create the Paks folder in that directory.
+ - Must also have Hydronix ModLoader and Hydronix Store mods, found here:
+ https://github.com/Team-Hydronix/Releases/tree/main/Pak%20Mods
     
