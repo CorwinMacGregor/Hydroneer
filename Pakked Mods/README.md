@@ -1,6 +1,9 @@
 
 # Glassworks
-Build pak of a collection of glass shapes.  Requires Hydronix ModLoader and Hydronix Store.
+Build pak of a collection of glass shapes.
+
+Requires Hydronix ModLoader and Hydronix Store.
+
 Caveats and known issues:
 
 - [ ] Unable to highlight-outline glass objects (possible limitation of game itself, according to Max)
@@ -13,7 +16,13 @@ Caveats and known issues:
 
 # Restrictor Pipe
 Adds a restrictor pipe to the Bridgepour pipe store which reduces water pressure all the way down to 1%.
+
 Requires HydroUMH
+
+Known issues:
+
+- [ ] UV texturing is bad in pipe's waist, resulting in a flat matte coloration
+
 
 # --REMOVED-- MacGregor Emporium
 At this time, this is a simple break-out of Hydronix Store code from the Hydronix Core.
@@ -21,4 +30,5 @@ At this time, this is a simple break-out of Hydronix Store code from the Hydroni
 All credit still due to Team Hydronix
 
 Caveats and known issues:
+
 - [x] FIXED: **URGENT** Castle walls and second floor are not being spawned in
