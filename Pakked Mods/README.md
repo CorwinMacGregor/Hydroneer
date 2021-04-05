@@ -22,6 +22,7 @@ Requires HydroUMH
 Known issues:
 
 - [X] FIXED: UV texturing is bad in pipe's waist, resulting in a flat matte coloration
+- [x] FIXED: Restrictor Pipes not saving in the savefile
 
 
 # --REMOVED-- MacGregor Emporium
