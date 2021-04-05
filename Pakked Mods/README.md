@@ -21,7 +21,7 @@ Requires HydroUMH
 
 Known issues:
 
-- [ ] UV texturing is bad in pipe's waist, resulting in a flat matte coloration
+- [X] FIXED: UV texturing is bad in pipe's waist, resulting in a flat matte coloration
 
 
 # --REMOVED-- MacGregor Emporium
