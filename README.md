@@ -11,3 +11,5 @@
  - Must also have Hydronix ModLoader and Hydronix Store mods, found here:
  https://github.com/Team-Hydronix/Releases/tree/main/Pak%20Mods
     
+
+Thank you to the following testers on the Hydroneer Discord channel:  cyberfreak, F4T4L
