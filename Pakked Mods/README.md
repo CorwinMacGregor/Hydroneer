@@ -2,7 +2,7 @@
 # Glassworks
 Build pak of a collection of glass shapes.
 
-Requires Hydronix ModLoader and Hydronix Store.
+Requires HydroUMH, and Hydronix Store to host selling the pieces (they're all 0c rright now, though), and of course Hydronix Store requires Hydronix ModLoader
 
 Caveats and known issues:
 
